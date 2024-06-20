@@ -1,0 +1,2 @@
+This folder has the images which need to be changed into any of the various styles present in the ../style/ folder.
+The path of the image to be changed can be added in the ../code.ipynb straight away for the desired result to be stored in ../output
