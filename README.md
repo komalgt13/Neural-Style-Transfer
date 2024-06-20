@@ -24,21 +24,21 @@
   - style_images = ["oilPainting.jpg"]
 - Run the simulation
 
-  ### Dependencies
+### Dependencies
 
-  1. PyTorch : A deep learning framework for tensor computations and neural network training.
-     - torch: Core PyTorch library.
-     - torch.nn: Neural network module for building and training networks.
-     - torch.optim: Optimization algorithms for gradient descent
-     - torchvision: Provides datasets, transforms, and pre-trained models for computer vision tasks.
-      
-  2. Pillow (PIL): Python Imaging Library for image processing tasks. PIL.Image Module for opening, manipulating, and saving images.
-  3. Matplotlib : Plotting library for creating visualizations.
-  4. Python Standard Libraries:
-     - os: Provides functions for interacting with the operating system, used for file and directory operations
-     - copy: Used for creating deep copies of objects, essential for duplicating neural network models.
+- PyTorch : A deep learning framework for tensor computations and neural network training.
+  - torch: Core PyTorch library.
+  - torch.nn: Neural network module for building and training networks.
+  - torch.optim: Optimization algorithms for gradient descent
+  - torchvision: Provides datasets, transforms, and pre-trained models for computer vision tasks.
 
-  5. Warnings: Python module for handling warnings.
+- Pillow (PIL): Python Imaging Library for image processing tasks. PIL.Image Module for opening, manipulating, and saving images.
+  - Matplotlib : Plotting library for creating visualizations.
+  - Python Standard Libraries:
+    - os: Provides functions for interacting with the operating system, used for file and directory operations
+    - copy: Used for creating deep copies of objects, essential for duplicating neural network models.
+
+- Warnings: Python module for handling warnings.
 
 ### Installation Instructions:
 To install these dependencies, you can use `pip`, Python's package installer:
