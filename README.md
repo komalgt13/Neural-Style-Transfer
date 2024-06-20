@@ -17,14 +17,13 @@
 <br>
 <br>
 
-<p>
+
 ### Usage 
-- Store the name of the image and the style to be used at the simulation in the following variables
+- Store the name of the image and the style to be used at the simulation in the following variables 
   - initial_images = ["joker.jpg"] 
   - style_images = ["oilPainting.jpg"]
 - Run the simulation
-</p>
-<p>
+
   ### Dependencies
 
   1. PyTorch : A deep learning framework for tensor computations and neural network training.
@@ -50,4 +49,4 @@ pip install torch torchvision pillow matplotlib
 
 Ensure that you have Python installed on your system. Using a virtual environment (`virtualenv`, `conda`, etc.) is recommended to manage dependencies and avoid conflicts with other projects.
   
-</p>
+
