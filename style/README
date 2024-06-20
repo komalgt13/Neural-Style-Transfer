@@ -1,0 +1,2 @@
+This folder contains the images whose style needs to be transferred to the images present in the ../initial/ folder. <br>
+Their path can be simply added in ../code.ipynb for the desired output.
