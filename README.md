@@ -18,29 +18,14 @@
 <br>
 
 <p>
-## Installation (for Windows OS)
-
-- Install jupyter lab using
-  - <h3>pip install jupyterlab </h3>
-- Install the jupyter notebook using the command
-  - <h3> pip install notebook</h3>
-- Add it as a path environment variable in your system.
-- Run the command
-  - <h3> jupyter notebook Neural-Style-Transfer </h3>
-- install the required packages
-  - <h3> pip install torchvision </h3>
-- Add your desired images to be changed in the folder named "initial" and the various styles in the folder named "style".
-</p>
-
-<p>
-## Usage 
+### Usage 
 - Store the name of the image and the style to be used at the simulation in the following variables
   - initial_images = ["joker.jpg"] 
   - style_images = ["oilPainting.jpg"]
 - Run the simulation
 </p>
 <p>
-  ## Dependencies
+  ### Dependencies
 
   1. PyTorch : A deep learning framework for tensor computations and neural network training.
      - torch: Core PyTorch library.
